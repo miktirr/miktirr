@@ -1,3 +1,6 @@
+
+![dom-is-home-is-dom](https://github.com/user-attachments/assets/e54d59ec-5c75-4c4f-b846-9363332def59)
+
 # An importer/exporter
 
 “Well, what does he do?”\
